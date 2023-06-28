@@ -1,0 +1,38 @@
+.frame {
+  box-sizing: border-box;
+  text-align: center;
+  width: 300px;
+  margin: auto;
+  padding: 50px 0 0 0;
+}
+
+.frame h1 {
+  margin: 10px 0px;
+}
+
+.frame input {
+  width: 100%;
+  height: 40px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  background-color: rgba(188, 241, 254, 0.776);
+  padding: 0;
+  border-radius: 5px;
+}
+
+.frame button {
+  width: 100%;
+  background-color: rgb(19, 133, 254);
+  color: white;
+  height: 40px;
+  font-weight: 700;
+  font-size: large;
+  margin: 20px 0 0 0;
+  padding: 0;
+  border-radius: 5px;
+}
+
+.frame p {
+  color: red;
+  margin-top: 20px;
+}
