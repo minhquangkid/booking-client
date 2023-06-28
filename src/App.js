@@ -7,7 +7,7 @@ import List from "./pages/list/List";
 import LogIn from "./pages/resgister/logIn";
 import SignIn from "./pages/resgister/signIn";
 import Transaction from "./pages/transaction/transaction";
-import { Environment } from "../../environment/environement";
+import { Environment } from "./environment/environement";
 
 function App() {
   const [log, setLog] = useState({ status: false, user: "" });
